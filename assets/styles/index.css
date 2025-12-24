@@ -55,3 +55,8 @@ input{
 .font_p{
     font-size: 1.6em;
 }
+.bag{
+    background: rgba(172, 172, 172, 0.5);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 4px 14px #0000003f;
+}
