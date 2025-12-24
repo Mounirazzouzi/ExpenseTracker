@@ -1,0 +1,57 @@
+html{
+    font-size: 12px;
+    scrollbar-width: none;
+}
+.flexw{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 15px;
+}
+
+a,h2{
+    text-transform: capitalize;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.h1{
+    font-size: 2.2em;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+nav{
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 4px 14px #0000003f;
+}
+header{
+    position: relative;
+    height: 92vh;
+    background-color: #f0f8fbcb;
+}
+.card{
+    width: 300px;
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 14px #c3c5c69d;
+    font-size: large;
+    
+}
+input{
+    outline: none;
+    border: none;
+    font-size: 1.2em;
+    padding:6px 8px;
+    border-radius: 8px;
+    box-shadow: 0 4px 14px #0000003f;
+    width: 100%;
+}
+.sec-butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.font_p{
+    font-size: 1.6em;
+}
