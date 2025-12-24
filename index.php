@@ -60,8 +60,20 @@
         <h2 class="h1 py-[10px]">A look at the dashboard</h2>
         <div class="sec-butt"><img class="rounded-2xl w-[88%]" src="assets/images/dash.png" alt=""></div>
     </section>
-    <footer class="h-[25vh]"id="contact">
-        <h3>contact</h3>
+    
+        <p>let's work together</p>
+
+        <div class="flex gap-14 text-2xl">
+            <a href=""><i class="fa-brands fa-facebook  text-[#ff0000] ico"></i></a>
+            <a href=""><i class="fa-brands fa-instagram text-[#ff0000] ico"></i></a>
+            <a href=""><i class="fa-brands fa-whatsapp  text-[#ff0000] ico"></i></a>
+            <a href=""><i class="fa-regular fa-envelope text-[#ff0000] ico"></i></a>
+        </div>
+        <div class=""></div>
+        <p class="pt-[10px] border-t-4 border-[#fff] w-[98%] md:w-[98%] lg:w-[65%] text-center">
+            &copy; 2025 Panda Shop. All rights reserved.
+        </p>
+
 
     </footer>
 </body>
